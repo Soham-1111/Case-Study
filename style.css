@@ -1,0 +1,51 @@
+#line{
+    width: 60%;
+}
+
+#header{
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.test_images_and_result{
+   box-shadow: 5px 5px 18px;
+   border-radius: 10px; 
+   width: 400px;
+   height:400px;
+   margin-top: 20px;
+   
+}
+
+.test_images_and_result b{
+color:peru;
+}
+
+.footer_div{
+    color:slategray;
+    background-color: white;
+    bottom: 0px;
+    position:fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 30px;
+     font-family: 'Source Serif Pro', serif;
+
+}
+
+
+.result{
+    background-color:thistle;
+    box-shadow: 5px 5px 18px black;
+    color:navy;
+    padding:10px;
+    border-radius:10px;
+    width:50%;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.result img{
+width:70px;
+}
+
+
+
+
