@@ -22,7 +22,7 @@ color:peru;
 .footer_div{
     color:slategray;
     background-color: white;
-    bottom: 0px;
+    bottom: 0;
     position:fixed;
     width: 100%;
     text-align: center;
@@ -39,6 +39,7 @@ color:peru;
     padding:10px;
     border-radius:10px;
     width:50%;
+    margin-left: 100px;
     margin-bottom: 50px;
     font-size: 30px;
 }
